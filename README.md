@@ -1,51 +1,67 @@
-# Hi there 👋, I'm **Bonar Agung Saputra**
+<h1 align="center">Hi 👋, I'm Bonar Agung Saputra</h1>
+<p align="center">
+  <em>Cybersecurity Enthusiast • Certified Ethical Hacker • Maker • Dev</em>
+</p>
 
-I'm a passionate developer and technologist with interests across electronics, software, and community-driven projects.
-
----
-
-## 🔧 Skills & Technologies
-- **Programming Languages:** JavaScript, Python, C/C++
-- **Frameworks & Tools:** Node.js, React, Android Studio
-- **Domains:** Embedded Systems, Electronics, App Development
-- **Other:** Git, Linux, Docker, CI/CD
-
----
-
-## 🎓 Education & Affiliations
-- D3 in Electronics Engineering, Universitas Pancasila  
-- Active member of the **Himpunan Mahasiswa Elektro** since 2020 :contentReference[oaicite:1]{index=1}
+<p align="center">
+  <a href="https://www.linkedin.com/in/bonaragungsaputra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-BonarAgungSaputra-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:bonaragungs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bonaragungs@gmail.com-informational?style=flat&logo=gmail" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Projects & Community Work
-Here's a snapshot of some of the initiatives I've led or contributed to:
+## 🧠 About Me
 
-- **Green Santri Technopreneurship** – Implemented circular economy concepts via local tech entrepreneurship :contentReference[oaicite:2]{index=2}  
-- **Computer Maintenance Training** – Conducted training sessions for RW‑28 in Perumahan Pesona Khayangan (Depok) :contentReference[oaicite:3]{index=3}  
-- **Disinfectant & Antiseptic Production (PKM)** – Developed a product using Bidara leaf, covering both manufacturing and e‑marketing :contentReference[oaicite:4]{index=4}  
-- **CCTV Network Design** – Designed and deployed security camera networks for Grand Depok City :contentReference[oaicite:5]{index=5}  
-- **Street Lighting & Electrical Outreach** in Leuwisadeng village (community service) :contentReference[oaicite:6]{index=6}  
-- **SMS-Based Egg Incubator System** – Built a control system for incubator using SMS commands :contentReference[oaicite:7]{index=7}  
+I’m **Bonar Agung Saputra**, a passionate technology professional blending **cybersecurity**, **software development**, and **hardware innovation**. I actively engage in ethical hacking, contribute to the open-source world, and advocate for a safer digital space through community initiatives like **#JagaRuangSiber**.
 
----
-
-## 📊 Research & Academic Profile
-- **SINTA ID:** 6643927 – Score: 577 (overall), 251 (last 3 years) :contentReference[oaicite:8]{index=8}  
-- **Publications (Indexed):** 6 in Scopus / 61 via Google Scholar, 26 citations / h-index 2 :contentReference[oaicite:9]{index=9}
+- 🕵️‍♂️ Certified **Ethical Hacker (CEH)**
+- 🔍 Bug bounty hunter & security researcher
+- 🧪 Embedded systems & IoT enthusiast
+- 📢 Promoter of cybersecurity awareness in schools and local communities
 
 ---
 
-## ☁️ GitHub Stats
-![Bonar Agung Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonaragung&show_icons=true&theme=default)
+## 🛠 Tech Stack
+
+- **Languages:** Python, JavaScript, C/C++, Bash
+- **Cybersecurity:** Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP
+- **Tools & Platforms:** Git, Docker, Linux, GitHub Actions, Arduino, ESP32
+- **Others:** Firebase, REST APIs, Node.js, React
 
 ---
 
-## 📫 Let's Connect  
-- 📧 **Email:** your.email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- 🌍 **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
+
+## 🌐 Community Work
+
+- 🧑‍🏫 Speaker on **Cybersecurity Awareness** in schools and universities
+- 🤝 Collaborator with **Kompas Gramedia** on threat response planning
+- 🏅 Recognized by **Pemkab Blitar** for reporting a vulnerability in their system
+- 🧵 Posting weekly under #JagaRuangSiber on LinkedIn
 
 ---
 
-Thanks for visiting — let's build something great together! 🚀
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bonaragung&show_icons=true&theme=default" alt="Bonar's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonaragung&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bonaragungsaputra/)
+- 📧 [bonaragungs@gmail.com](mailto:bonaragungs@gmail.com)
+- 💻 [GitHub Projects](https://github.com/bonaragung)
+
+---
+
+> _"Security is not a product, but a process."_ — Bruce Schneier
+
+Thanks for visiting! Feel free to check out my projects or reach out for collaboration.
